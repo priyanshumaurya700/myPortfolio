@@ -19,7 +19,7 @@ export default function Home() {
                     fontFamily: "'Poppins', sans-serif",
                   }}
                 >
-                  Hello, I'm
+                  Hello, I&apos;m
                   <span style={{ fontFamily: "'Poppins', sans-serif" }}>
                     {" "}
                     Priyanshu Maurya
